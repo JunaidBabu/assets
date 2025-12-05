@@ -1,0 +1,11 @@
+{
+  "name": "Neon Electric Monsters",
+  "description": "A collection of 5 unique 3D electric-themed game assets rendered in soft clay, glass, and cloud textures.",
+  "image": "ipfs://YOUR_COLLECTION_COVER_IMAGE_CID/collection_cover.png",
+  "social_links": [
+    "https://t.me/YourTelegramChannel",
+    "https://twitter.com/YourProjectAccount"
+  ],
+  "seller_fee_basis_points": 500,
+  "external_url": "https://yourprojectwebsite.com"
+}
