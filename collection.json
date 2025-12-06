@@ -1,10 +1,8 @@
 {
-  "name": "Neon Electric Monsters",
-  "description": "A collection of 5 unique 3D electric-themed game assets rendered in soft clay, glass, and cloud textures.",
-  "image": "ipfs://YOUR_COLLECTION_COVER_IMAGE_CID/collection_cover.png",
+  "name": "E-MON (Elemental Monsters)",
+  "description": "Collect and battle unique 3D creatures born from energy, code, and elemental power.",
+  "image": "https://raw.githubusercontent.com/JunaidBabu/assets/refs/heads/main/png/Collection_1.webp",
   "social_links": [
-    "https://t.me/YourTelegramChannel",
-    "https://twitter.com/YourProjectAccount"
   ],
   "seller_fee_basis_points": 500,
   "external_url": "https://yourprojectwebsite.com"
