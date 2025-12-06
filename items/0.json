@@ -1,0 +1,25 @@
+{
+  "address": "EQCTGzcMavXyYseB0EpqM9KQnDK3tS8dB0yhVa31oqEnJaa0",
+  "collectionAddress": "EQAIM-5QzZGXYTSZR1RGeT2g9rNpYmNPQ09_HtvaInHaTyPX",
+  "ownerAddress": "UQCJU-VyO5JMzTg_qKX9VwvAsiGRRn9rfFzH960agu4uShQh",
+  "image": "https://imgproxy.toncenter.com/HfJKJ4fRfLLBSSIfNL_t4Hi-HZHorONNC6jLw4jUlCg/pr:big/aHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL2dpZnQvc25vd21pdHRlbnMtMjgyNDgud2VicA",
+  "name": "Snow Mittens #28248",
+  "description": "An exclusive Snow Mittens with the appearance Pingu on a Pistachio background with Rudolph icons.",
+  "index": "41167552249368748912396292475162704311583217974907479722786819673687690270396",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Pingu"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pistachio"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Rudolph"
+    }
+  ],
+  "externalUrl": "https://nft.fragment.com/gift/snowmittens-28248.json",
+  "metadataUrl": "https://nft.fragment.com/gift/snowmittens-28248.json"
+}
